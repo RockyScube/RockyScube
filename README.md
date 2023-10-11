@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rocky
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning AWS
 - 📫 reach me at: rockyshinde@scube.me
 
 <!---
